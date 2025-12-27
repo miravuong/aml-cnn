@@ -10,7 +10,7 @@ fgsm.py (Fast Gradient Sign Attack)
 Here is a visualization of calculated noise produced by FGSM being applied to an input image, resulting in misclassification by the model.
 <img width="639" height="271" alt="image" src="https://github.com/user-attachments/assets/0d5516bf-7a59-4605-a078-edb891470eb1" />
 
-Visual by [TensorFlow](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm#:~:text=Here%2C%20starting%20with%20the%20image,where).
+Visual by [TensorFlow](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm).
 
 
 
